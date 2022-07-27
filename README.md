@@ -26,12 +26,18 @@
 
 * [homebrew](https://brew.sh/) 安装
   * [autojump](https://github.com/wting/autojump): 更容易地跳转到某个路径，节省大量时间
-  * [tldr](https://tldr.sh/): 更好用的 man
+  * [tldr](https://tldr.sh/): better man
+  * [cheat.sh](https://github.com/chubin/cheat.sh): better man
+  * [httpie](https://httpie.io/): better curl
+  * [prettyping](https://github.com/denilsonsa/prettyping): better ping
+  * [bat](https://github.com/sharkdp/bat): better cat
+  * [fd](https://github.com/sharkdp/fd): better find
+  * [fzf](https://github.com/junegunn/fzf): better ctrl + f
+  * [htop](https://htop.dev/): better top
+  * [exa](https://github.com/ogham/exa): better ls
   * [tig](https://github.com/jonas/tig): git 扩展
-  * [bat](https://github.com/sharkdp/bat): 更好用的 cat
-  * [fd](https://github.com/sharkdp/fd): 更好用的 find
-  * [htop](https://htop.dev/): 更好用的 top
   * [gib](https://github.com/DavSanchez/gib): 生成 .gitignore 文件
+  * [mecert](https://github.com/FiloSottile/mkcert): 生成自签名证书
 
 * [tmux](https://github.com/tmux/tmux) - [配置](https://gist.github.com/riskers/4cf70b3de35906d0df7009ecbfeba3a7)
 
@@ -45,10 +51,12 @@
 * [airBuddy](https://v2.airbuddy.app/): 可以快速在多个 Mac 设备切换蓝牙设备
 * [MaxSnap](https://noteifyapp.com/maxsnap-mac-window-manager/): 快速移动窗口、改变窗口大小
 * [超级右键](https://apps.apple.com/cn/app/%E8%B6%85%E7%BA%A7%E5%8F%B3%E9%94%AE-irightmouse/id1497428978?mt=12): 丰富 Mac 右键
+* [Dash](https://kapeli.com/dash): API 查询 
 
 ### 开发工具
 
 * [sourcetree](https://www.sourcetreeapp.com/): 合并代码解冲突的时候经常用
+* [postman](https://www.postman.com/)
 * [Charles](https://www.charlesproxy.com/): 抓包用
 * [whistle](https://github.com/avwo/whistle): 可以作为 Charles 的替代 [介绍](https://github.com/kaiye/kaiye.github.com/issues/27) [介绍](https://zhuanlan.zhihu.com/p/79037633)
 * [ngrok](https://ngrok.com/): 内网穿透软件
@@ -73,6 +81,7 @@
 
 * [CleanMyMac X](https://macpaw.com/cleanmymac): 系统清理软件
 * [腾讯柠檬大师](https://lemon.qq.com/): 作为 CleanMyMac 的替代品
+* [Irvue](https://apps.apple.com/us/app/irvue/id1039633667?mt=12): 换 Mac 壁纸
 * [Reeder](http://reederapp.com/mac/): RSS 软件 - [搭建 RSS 服务](https://github.com/riskers/blog/issues/50)
 * [NetNewsWire](https://ranchero.com/netnewswire/): 可以作为 Reeder 免费替代品
 * [1password](https://1password.com/): 密码管理
