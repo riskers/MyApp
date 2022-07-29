@@ -61,6 +61,7 @@
 * [whistle](https://github.com/avwo/whistle): 可以作为 Charles 的替代 [介绍](https://github.com/kaiye/kaiye.github.com/issues/27) [介绍](https://zhuanlan.zhihu.com/p/79037633)
 * [ngrok](https://ngrok.com/): 内网穿透软件
 * [bore](https://github.com/ekzhang/bore): 另一款内网穿透软件
+* [SwitchHosts](https://github.com/oldj/SwitchHosts): 快速切换 Hosts 的工具
 * [dbeaver](https://dbeaver.com/): 免费的数据库 GUI 软件
 * [robo 3T](https://robomongo.org/): MongoDB GUI 软件
 * [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager): Redis GUI 软件
