@@ -161,6 +161,9 @@
 * AdBlock
 * History Master
 * Momentum
+* Raindrop.io: 收藏夹
+* Screenity: 录制视频
+* Tampermonkey
 
 ## 在线应用
 
