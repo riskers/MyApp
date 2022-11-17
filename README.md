@@ -97,6 +97,11 @@
 
 ## 输出
 
+### Learning English
+
+* [relingo](https://relingo.net/en/index): Chrome 插件，划词翻译 + 单词本 (已买终身会员)
+* [languagereactor](https://www.languagereactor.com/): 看 Youtube 视频，有双语字幕，且可以查单词、语法，可快速重播某一段、可看到全文等功能
+
 ### PPT
 
 * [字由](http://www.hellofont.cn/): 艺术字体
