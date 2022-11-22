@@ -55,7 +55,7 @@
 
 ### 开发工具
 
-* [sublimemerge](https://www.sublimemerge.com/): [sourceTree](https://www.sourcetreeapp.com/) 的解冲突需要第三方软件，以替换
+* [sublimemerge](https://www.sublimemerge.com/): [sourceTree](https://www.sourcetreeapp.com/) 的 resolve conflict 需要第三方软件，已替换
 * [postman](https://www.postman.com/)
 * [Charles](https://www.charlesproxy.com/): 抓包用
 * [whistle](https://github.com/avwo/whistle): 可以作为 Charles 的替代 [介绍](https://github.com/kaiye/kaiye.github.com/issues/27) [介绍](https://zhuanlan.zhihu.com/p/79037633)
