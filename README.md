@@ -26,16 +26,17 @@
 
 * [homebrew](https://brew.sh/) 安装
   * [autojump](https://github.com/wting/autojump): 更容易地跳转到某个路径，节省大量时间
-  * [tldr](https://tldr.sh/): better man
-  * [cheat.sh](https://github.com/chubin/cheat.sh): better man
-  * [httpie](https://httpie.io/): better curl
-  * [prettyping](https://github.com/denilsonsa/prettyping): better ping
-  * [bat](https://github.com/sharkdp/bat): better cat
-  * [fd](https://github.com/sharkdp/fd): better find
-  * [fzf](https://github.com/junegunn/fzf): better ctrl + f
-  * [htop](https://htop.dev/): better top
+  * [tldr](https://tldr.sh/): better `man`
+  * [cheat.sh](https://github.com/chubin/cheat.sh): better `man`
+  * [httpie](https://httpie.io/): better `curl`
+  * [prettyping](https://github.com/denilsonsa/prettyping): better `ping`
+  * [bat](https://github.com/sharkdp/bat): better `cat`
+  * [fd](https://github.com/sharkdp/fd): better `find`
+  * [fzf](https://github.com/junegunn/fzf): better `ctrl + f`
+  * [bottom](https://github.com/ClementTsang/bottom): better `top`
   * [exa](https://github.com/ogham/exa): better ls
   * [tig](https://github.com/jonas/tig): git 扩展
+  * [procs](https://github.com/dalance/procs): better `ps`
   * [gib](https://github.com/DavSanchez/gib): 生成 .gitignore 文件
   * [mecert](https://github.com/FiloSottile/mkcert): 生成自签名证书
 
