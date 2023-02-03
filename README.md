@@ -88,7 +88,7 @@
 * [Irvue](https://apps.apple.com/us/app/irvue/id1039633667?mt=12): 换 Mac 壁纸
 * [Reeder](http://reederapp.com/mac/): RSS 软件 - [搭建 RSS 服务](https://github.com/riskers/blog/issues/50)
 * [NetNewsWire](https://ranchero.com/netnewswire/): 可以作为 Reeder 免费替代品
-* [1password](https://1password.com/): 密码管理
+* [1password](https://1password.com/): 密码管理，有计划换成 [elpass](https://elpass.app/)
 * [bartender](https://www.macbartender.com/): 系统菜单栏管理
 * [itsycal](https://www.mowglii.com/itsycal/): 菜单栏日历软件
 * [Downie](https://software.charliemonroe.net/downie/): 视频下载，收费
