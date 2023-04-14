@@ -39,6 +39,8 @@
   * [gib](https://github.com/DavSanchez/gib): 生成 .gitignore 文件
   * [mecert](https://github.com/FiloSottile/mkcert): 生成自签名证书
 
+  > 完整见 [Brewfile](./Brewfile)，通过 `brew bundle dump --describe` 生成，换设备的话，执行 `brew bundle install` 就会安装 Brewfile 里所有的软件。
+
 * [tmux](https://github.com/tmux/tmux) - [配置](https://gist.github.com/riskers/4cf70b3de35906d0df7009ecbfeba3a7)
 
 ### 效率软件
