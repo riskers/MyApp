@@ -26,16 +26,17 @@
 
 * [homebrew](https://brew.sh/) 安装
   * [autojump](https://github.com/wting/autojump): 更容易地跳转到某个路径，节省大量时间
-  * [tldr](https://tldr.sh/): better man
-  * [cheat.sh](https://github.com/chubin/cheat.sh): better man
-  * [httpie](https://httpie.io/): better curl
-  * [prettyping](https://github.com/denilsonsa/prettyping): better ping
-  * [bat](https://github.com/sharkdp/bat): better cat
-  * [fd](https://github.com/sharkdp/fd): better find
-  * [fzf](https://github.com/junegunn/fzf): better ctrl + f
-  * [htop](https://htop.dev/): better top
+  * [tldr](https://tldr.sh/): better `man`
+  * [cheat.sh](https://github.com/chubin/cheat.sh): better `man`
+  * [httpie](https://httpie.io/): better `curl`
+  * [prettyping](https://github.com/denilsonsa/prettyping): better `ping`
+  * [bat](https://github.com/sharkdp/bat): better `cat`
+  * [fd](https://github.com/sharkdp/fd): better `find`
+  * [fzf](https://github.com/junegunn/fzf): better `ctrl + f`
+  * [bottom](https://github.com/ClementTsang/bottom): better `top`
   * [exa](https://github.com/ogham/exa): better ls
   * [tig](https://github.com/jonas/tig): git 扩展
+  * [procs](https://github.com/dalance/procs): better `ps`
   * [gib](https://github.com/DavSanchez/gib): 生成 .gitignore 文件
   * [mecert](https://github.com/FiloSottile/mkcert): 生成自签名证书
 
@@ -73,8 +74,10 @@
 ### 图片、视频
 
 * [iShot](https://www.better365.cn/ishot.html): 用过的最好用的截图软件，可以加阴影
+* [CleanShot X](https://cleanshot.com/): 史诗级截图软件，不过年订阅费有点贵
 * [LICEcap](https://www.cockos.com/licecap/): GIF 录屏
 * [PicGo](https://github.com/Molunerfinn/PicGo): 图片上传到图床，我使用的是阿里云 OSS
+  * [sapic](https://github.com/sapicd/sapic): 支持多种存储方式，需要自架
 * [getKap](https://getkap.co/): 视频录屏软件
 * [gifski](https://gif.ski/): 视频转成 GIF 图片
 
@@ -87,7 +90,7 @@
 * [Irvue](https://apps.apple.com/us/app/irvue/id1039633667?mt=12): 换 Mac 壁纸
 * [Reeder](http://reederapp.com/mac/): RSS 软件 - [搭建 RSS 服务](https://github.com/riskers/blog/issues/50)
 * [NetNewsWire](https://ranchero.com/netnewswire/): 可以作为 Reeder 免费替代品
-* [1password](https://1password.com/): 密码管理
+* [1password](https://1password.com/): 密码管理，有计划换成 [elpass](https://elpass.app/)
 * [bartender](https://www.macbartender.com/): 系统菜单栏管理
 * [itsycal](https://www.mowglii.com/itsycal/): 菜单栏日历软件
 * [Downie](https://software.charliemonroe.net/downie/): 视频下载，收费
@@ -176,6 +179,10 @@
 * 调试 glob: https://globster.xyz/
 * 调试 AST: https://astexplorer.net/
 * 邮件签名图: https://github.com/o2team/sign
+* 在线设计图片
+  * https://www.canva.cn/
+  * https://designer.microsoft.com/
+  * https://pearmini.github.io/colorfu/
 
 
 ## 字体
