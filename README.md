@@ -73,7 +73,8 @@
 
 ### 图片、视频
 
-* [iShot](https://www.better365.cn/ishot.html): 用过的最好用的截图软件，可以加阴影
+* ~[iShot](https://www.better365.cn/ishot.html): 用过的最好用的截图软件，可以加阴影~
+* [snipaste](https://www.snipaste.com/): 代替 iShot，因为贴图功能是免费的
 * [CleanShot X](https://cleanshot.com/): 史诗级截图软件，不过年订阅费有点贵
 * [LICEcap](https://www.cockos.com/licecap/): GIF 录屏
 * [PicGo](https://github.com/Molunerfinn/PicGo): 图片上传到图床，我使用的是阿里云 OSS
