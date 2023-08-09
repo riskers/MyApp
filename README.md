@@ -123,16 +123,17 @@
 
 ### 脑图、流程图
 
-* https://milanote.com/
 * https://whimsical.com/
+* https://excalidraw.com/
+* https://milanote.com/
 * https://miro.com/
 * https://webdemo.myscript.com/
 * https://www.zenflowchart.com/
 * https://asciiflow.com/#/
 * https://sketchboard.me/
-* https://excalidraw.com/
 
-都是 [omnigraffle](https://www.omnigroup.com/omnigraffle) 的替代品，我用的是 whimsical。
+
+都是 [omnigraffle](https://www.omnigroup.com/omnigraffle) 的替代品，我用的是 whimsical 和 excalidraw 比较多，因为免费。
 
 ### 图片
 
