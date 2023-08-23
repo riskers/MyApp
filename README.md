@@ -6,8 +6,9 @@
 
 ## IDE
 
-* VSCode: 写前端、Go 的时候使用
-* IDEA CE: 写 Java 的使用，社区版足够了
+* VSCode: 写前端的时候使用
+* IDEA CE: 写 Java 时使用，社区版足够了
+* Gioland: 付费了
 
 ## Mac 软件
 
@@ -39,6 +40,7 @@
   * [procs](https://github.com/dalance/procs): better `ps`
   * [gib](https://github.com/DavSanchez/gib): 生成 .gitignore 文件
   * [mecert](https://github.com/FiloSottile/mkcert): 生成自签名证书
+  * kubectl / helm
 
   > 完整见 [Brewfile](./Brewfile)，通过 `brew bundle dump --describe` 生成，换设备的话，执行 `brew bundle install` 就会安装 Brewfile 里所有的软件。
 
@@ -54,7 +56,7 @@
 * [airBuddy](https://v2.airbuddy.app/): 可以快速在多个 Mac 设备切换蓝牙设备
 * [MaxSnap](https://noteifyapp.com/maxsnap-mac-window-manager/): 快速移动窗口、改变窗口大小
 * [超级右键](https://apps.apple.com/cn/app/%E8%B6%85%E7%BA%A7%E5%8F%B3%E9%94%AE-irightmouse/id1497428978?mt=12): 丰富 Mac 右键
-* [Dash](https://kapeli.com/dash): API 查询 
+* [Dash](https://kapeli.com/dash): API 查询，付费了
 
 ### 开发工具
 
@@ -68,6 +70,8 @@
 * [dbeaver](https://dbeaver.com/): 免费的数据库 GUI 软件
 * [robo 3T](https://robomongo.org/): MongoDB GUI 软件
 * [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager): Redis GUI 软件
+* [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+* [Lens](https://k8slens.dev/): k8s GUI
 
 <!-- 改键软件: https://github.com/pqrs-org/Karabiner-Elements -->
 
@@ -108,6 +112,8 @@
 
 * [relingo](https://relingo.net/en/index): Chrome 插件，划词翻译 + 单词本 (已买终身会员)
 * [languagereactor](https://www.languagereactor.com/): 看 Youtube 视频，有双语字幕，且可以查单词、语法，可快速重播某一段、可看到全文等功能
+* [grammarly](https://app.grammarly.com/): 一个好用的浏览器插件，检查英文语法
+* [qwerty](https://qwerty.kaiyi.cool/): 英文打字练习
 
 ### PPT
 
@@ -147,7 +153,7 @@
 
 ### 笔记
 
-* [Notion](https://www.notion.so/): 主力笔记软件
+* [Notion](https://www.notion.so/): 主力知识管理
 * [Dayone](https://dayoneapp.com/): 日记
 * [Joplin](https://joplinapp.org/): 支持 webdav，搭配坚果云做同步，一般用来写博客
 * [MWeb](https://www.mweb.im/): 当作一款好用 MD 编辑器
@@ -162,7 +168,6 @@
 ## Chrome 插件
 
 * Proxy SwitchyOmega
-* Octotree
 * JSONView
 * Vimium
 * AdBlock
