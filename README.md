@@ -101,6 +101,7 @@
 * [Downie](https://software.charliemonroe.net/downie/): 视频下载，收费
 * [lux](https://github.com/iawia002/lux): 视频下载，免费
 * [IINA](https://github.com/iina/iina): 很好用的视频播放器
+* [infuse](https://firecore.com/infuse): 支持云盘视频
 * [BLEUnlock](https://github.com/ts1/BLEUnlock): Apple Watch 自动解锁 Mac，感觉比 Apple 原生解锁合理一点
 * [Skim](https://pdf.wondershare.net/ad/pdf-editor-mac.html): PDF 软件
 * [MarginNote](https://www.marginnote.com/): 看 PDF 书籍，记录笔记
@@ -171,7 +172,6 @@
 * JSONView
 * Vimium
 * AdBlock
-* History Master
 * Momentum
 * Raindrop.io: 收藏夹
 * Screenity: 录制视频
