@@ -175,7 +175,11 @@
 * Momentum
 * Raindrop.io: 收藏夹
 * Screenity: 录制视频
+* Loom: 录制视频
 * Tampermonkey
+* Grammarly
+* Language Reactor: YT 翻译软件
+* Relingo: 划词类翻译软件
 
 ## 在线应用
 
