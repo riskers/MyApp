@@ -91,9 +91,11 @@
 ### 其他
 
 * [CleanMyMac X](https://macpaw.com/cleanmymac): 系统清理软件
-  * [mac-cleanup](https://twitter.com/HiTw93/status/1754294011685142835) - 清理 Mac
   * [腾讯柠檬大师](https://lemon.qq.com/): 作为 CleanMyMac 的替代品
   * [easydevo](https://easydevo.boringboring.design/)
+* 开源清理 Mac
+  * [mac-cleanup](https://twitter.com/HiTw93/status/1754294011685142835) - 清理 Mac
+  * [GUI clean](https://github.com/mac-cleanup/mac-cleanup-py) - 清理 Mac 
 * [Irvue](https://apps.apple.com/us/app/irvue/id1039633667?mt=12): 换 Mac 壁纸
 * [Reeder](http://reederapp.com/mac/): RSS 软件 - [搭建 RSS 服务](https://github.com/riskers/blog/issues/50)
 * [NetNewsWire](https://ranchero.com/netnewswire/): 可以作为 Reeder 免费替代品
