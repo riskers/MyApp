@@ -62,8 +62,10 @@
 
 * [sublimemerge](https://www.sublimemerge.com/): [sourceTree](https://www.sourcetreeapp.com/) 的 resolve conflict 需要第三方软件，已替换为 sublimemerge
 * [postman](https://www.postman.com/)
-* [Charles](https://www.charlesproxy.com/): 抓包用
-* [whistle](https://github.com/avwo/whistle): 可以作为 Charles 的替代 [介绍](https://github.com/kaiye/kaiye.github.com/issues/27) [介绍](https://zhuanlan.zhihu.com/p/79037633)
+* 抓包
+ * [Charles](https://www.charlesproxy.com/)
+ * [Proxyman](https://proxyman.io/)
+ * [whistle](https://github.com/avwo/whistle): 可以作为 Charles 的替代 [介绍](https://github.com/kaiye/kaiye.github.com/issues/27) [介绍](https://zhuanlan.zhihu.com/p/79037633)
 * [ngrok](https://ngrok.com/): 内网穿透软件
 * [bore](https://github.com/ekzhang/bore): 另一款内网穿透软件
 * [SwitchHosts](https://github.com/oldj/SwitchHosts): 快速切换 Hosts 的工具
