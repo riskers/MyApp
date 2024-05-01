@@ -57,6 +57,7 @@
 * [MaxSnap](https://noteifyapp.com/maxsnap-mac-window-manager/): 快速移动窗口、改变窗口大小
 * [超级右键](https://apps.apple.com/cn/app/%E8%B6%85%E7%BA%A7%E5%8F%B3%E9%94%AE-irightmouse/id1497428978?mt=12): 丰富 Mac 右键
 * [Dash](https://kapeli.com/dash): API 查询，付费了
+* [thunderbird](https://www.thunderbird.net/en-US/): 邮箱客户端，好用，免费
 
 ### 开发工具
 
