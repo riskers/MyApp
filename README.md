@@ -35,7 +35,8 @@
   * [fd](https://github.com/sharkdp/fd): better `find`
   * [fzf](https://github.com/junegunn/fzf): better `ctrl + f`
   * [bottom](https://github.com/ClementTsang/bottom): better `top`
-  * [exa](https://github.com/ogham/exa): better ls
+  * ~[exa](https://github.com/ogham/exa): better ls~
+  * [eza](https://github.com/eza-community/eza) better ls
   * [tig](https://github.com/jonas/tig): git 扩展
   * [procs](https://github.com/dalance/procs): better `ps`
   * [gib](https://github.com/DavSanchez/gib): 生成 .gitignore 文件
