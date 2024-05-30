@@ -65,9 +65,9 @@
 * [sublimemerge](https://www.sublimemerge.com/): [sourceTree](https://www.sourcetreeapp.com/) 的 resolve conflict 需要第三方软件，已替换为 sublimemerge
 * [postman](https://www.postman.com/)
 * 抓包
- * [Charles](https://www.charlesproxy.com/)
- * [Proxyman](https://proxyman.io/)
- * [whistle](https://github.com/avwo/whistle): 可以作为 Charles 的替代 [介绍](https://github.com/kaiye/kaiye.github.com/issues/27) [介绍](https://zhuanlan.zhihu.com/p/79037633)
+  * [Charles](https://www.charlesproxy.com/)
+  * [Proxyman](https://proxyman.io/)
+  * [whistle](https://github.com/avwo/whistle): 可以作为 Charles 的替代 [介绍](https://github.com/kaiye/kaiye.github.com/issues/27) [介绍](https://zhuanlan.zhihu.com/p/79037633)
 * 内网穿透
   * [VSCode port forwarding](https://code.visualstudio.com/docs/editor/port-forwarding)
   * [ngrok](https://ngrok.com/): 内网穿透软件
