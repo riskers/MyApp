@@ -108,8 +108,11 @@
   * [NetNewsWire](https://ranchero.com/netnewswire/): 可以作为 Reeder 免费替代品
 * [1password](https://1password.com/): 密码管理，有计划换成 [elpass](https://elpass.app/)
 * 系统菜单栏管理
-  * [bartender](https://www.macbartender.com/)
+  * ~[bartender](https://www.macbartender.com/)~
+  * [Ice](https://icemenubar.app/)
+  * ibar
   * [hidden](https://github.com/dwarvesf/hidden)
+  * [vanilla](https://matthewpalmer.net/vanilla/)
 * [itsycal](https://www.mowglii.com/itsycal/): 菜单栏日历软件
 * Video Download
   * [Downie](https://software.charliemonroe.net/downie/): 视频下载，收费
