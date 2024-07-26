@@ -1,6 +1,6 @@
 ## 梯子
 
-[fenghost](https://www.fenghost.net/) 用了很多年，价格公道，速度可以
+[fenghost](https://www.fenghost.net/aff.php?aff=5923&gid=15) 用了很多年，价格公道，速度可以
 
 软件方面之前[总结](https://github.com/riskers/blog/issues/38)过，现在使用的是 clashX
 
