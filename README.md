@@ -216,9 +216,9 @@
   * https://designer.microsoft.com/
   * https://pearmini.github.io/colorfu/
 * Mock API Server
- * https://jsonplaceholder.typicode.com/
- * https://fakerapi.com/
- * https://mockaroo.com/
+  * https://jsonplaceholder.typicode.com/
+  * https://fakerapi.com/
+  * https://mockaroo.com/
 
 
 ## 字体
