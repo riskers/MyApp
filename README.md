@@ -64,6 +64,7 @@
 
 * [sublimemerge](https://www.sublimemerge.com/): [sourceTree](https://www.sourcetreeapp.com/) 的 resolve conflict 需要第三方软件，已替换为 sublimemerge
 * [postman](https://www.postman.com/)
+* [SwitchHosts](https://github.com/oldj/SwitchHosts): 快速切换 Hosts 的工具
 * 抓包
   * [Charles](https://www.charlesproxy.com/)
   * [Proxyman](https://proxyman.io/)
@@ -72,10 +73,12 @@
   * [VSCode port forwarding](https://code.visualstudio.com/docs/editor/port-forwarding)
   * [ngrok](https://ngrok.com/): 内网穿透软件
   * [bore](https://github.com/ekzhang/bore): 另一款内网穿透软件
-* [SwitchHosts](https://github.com/oldj/SwitchHosts): 快速切换 Hosts 的工具
-* [dbeaver](https://dbeaver.com/): 免费的数据库 GUI 软件
-* [robo 3T](https://robomongo.org/): MongoDB GUI 软件
-* [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager): Redis GUI 软件
+* DB
+  * navicat: 现在也有社区版了
+  * [dbeaver](https://dbeaver.com/): 免费的数据库 GUI 软件
+  * [robo 3T](https://robomongo.org/): MongoDB GUI 软件
+  * [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager): Redis GUI 软件
+* k8s
 * [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 * [Lens](https://k8slens.dev/): k8s GUI
 
@@ -212,6 +215,10 @@
   * https://www.canva.cn/
   * https://designer.microsoft.com/
   * https://pearmini.github.io/colorfu/
+* Mock API Server
+ * https://jsonplaceholder.typicode.com/
+ * https://fakerapi.com/
+ * https://mockaroo.com/
 
 
 ## 字体
