@@ -63,7 +63,7 @@
 ### 开发工具
 
 * [sublimemerge](https://www.sublimemerge.com/): [sourceTree](https://www.sourcetreeapp.com/) 的 resolve conflict 需要第三方软件，已替换为 sublimemerge
-* [postman](https://www.postman.com/)
+* [postman](https://www.postman.com/) / [reqable](https://reqable.com/en-US/)
 * [SwitchHosts](https://github.com/oldj/SwitchHosts): 快速切换 Hosts 的工具
 * 抓包
   * [Charles](https://www.charlesproxy.com/)
