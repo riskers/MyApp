@@ -188,7 +188,7 @@
 
 ## Chrome 插件
 
-* Proxy SwitchyOmega
+* ~Proxy SwitchyOmega~, [zero omega](https://github.com/zero-peak/ZeroOmega)
 * JSONView
 * Vimium
 * AdBlock
