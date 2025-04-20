@@ -107,8 +107,9 @@
   * [GUI clean](https://github.com/mac-cleanup/mac-cleanup-py) - 清理 Mac 
 * [Irvue](https://apps.apple.com/us/app/irvue/id1039633667?mt=12): 换 Mac 壁纸
 * RSS
-  * [Reeder](http://reederapp.com/mac/): RSS 软件 - [搭建 RSS 服务](https://github.com/riskers/blog/issues/50)
-  * [NetNewsWire](https://ranchero.com/netnewswire/): 可以作为 Reeder 免费替代品
+  * ~[Reeder](http://reederapp.com/mac/): RSS 软件 - [搭建 RSS 服务](https://github.com/riskers/blog/issues/50)~
+  * ~[NetNewsWire](https://ranchero.com/netnewswire/): 可以作为 Reeder 免费替代品~
+  * [follow](https://follow.is/)
 * [1password](https://1password.com/): 密码管理，有计划换成 [elpass](https://elpass.app/)
 * 系统菜单栏管理
   * ~[bartender](https://www.macbartender.com/)~
