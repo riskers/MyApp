@@ -79,7 +79,7 @@
   * [robo 3T](https://robomongo.org/): MongoDB GUI 软件
   * [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager): Redis GUI 软件
 * k8s
-* [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+* [Docker Desktop](https://www.docker.com/products/docker-desktop/) / [orbstack](https://orbstack.dev/)
 * [Lens](https://k8slens.dev/): k8s GUI
 
 <!-- 改键软件: https://github.com/pqrs-org/Karabiner-Elements -->
