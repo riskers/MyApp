@@ -8,7 +8,6 @@
 
 * VSCode: 写前端的时候使用
 * IDEA CE: 写 Java 时使用，社区版足够了
-* Gioland: 付费了
 
 ## Mac 软件
 
@@ -103,6 +102,7 @@
   * [腾讯柠檬大师](https://lemon.qq.com/): 作为 CleanMyMac 的替代品
   * [easydevo](https://easydevo.boringboring.design/)
 * 开源清理 Mac
+  * [Mole](https://github.com/tw93/Mole)
   * [mac-cleanup](https://twitter.com/HiTw93/status/1754294011685142835) - 清理 Mac
   * [GUI clean](https://github.com/mac-cleanup/mac-cleanup-py) - 清理 Mac 
 * [Irvue](https://apps.apple.com/us/app/irvue/id1039633667?mt=12): 换 Mac 壁纸
