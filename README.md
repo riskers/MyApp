@@ -4,11 +4,6 @@
 
 软件方面之前[总结](https://github.com/riskers/blog/issues/38)过，现在使用的是 clashX
 
-## IDE
-
-* VSCode: 写前端的时候使用
-* IDEA CE: 写 Java 时使用，社区版足够了
-
 ## Mac 软件
 
 ### 命令行
@@ -57,7 +52,6 @@
 * [MaxSnap](https://noteifyapp.com/maxsnap-mac-window-manager/): 快速移动窗口、改变窗口大小
 * [超级右键](https://apps.apple.com/cn/app/%E8%B6%85%E7%BA%A7%E5%8F%B3%E9%94%AE-irightmouse/id1497428978?mt=12): 丰富 Mac 右键
 * [Dash](https://kapeli.com/dash): API 查询，付费了
-* [thunderbird](https://www.thunderbird.net/en-US/): 邮箱客户端，好用，免费
 
 ### 开发工具
 
@@ -86,8 +80,8 @@
 ### 图片、视频
 
 * ~[iShot](https://www.better365.cn/ishot.html): 用过的最好用的截图软件，可以加阴影~
-* [snipaste](https://www.snipaste.com/): 代替 iShot，因为贴图功能是免费的
-* [CleanShot X](https://cleanshot.com/): 史诗级截图软件，不过年订阅费有点贵
+* [Snipaste](https://www.snipaste.com/): 代替 iShot，因为贴图功能是免费的
+* ~[CleanShot X](https://cleanshot.com/): 史诗级截图软件，不过年订阅费有点贵~
 * [LICEcap](https://www.cockos.com/licecap/): GIF 录屏
 * [PicGo](https://github.com/Molunerfinn/PicGo): 图片上传到图床，我使用的是阿里云 OSS
   * [sapic](https://github.com/sapicd/sapic): 支持多种存储方式，需要自架
@@ -107,10 +101,10 @@
   * [GUI clean](https://github.com/mac-cleanup/mac-cleanup-py) - 清理 Mac 
 * [Irvue](https://apps.apple.com/us/app/irvue/id1039633667?mt=12): 换 Mac 壁纸
 * RSS
-  * ~[Reeder](http://reederapp.com/mac/): RSS 软件 - [搭建 RSS 服务](https://github.com/riskers/blog/issues/50)~
   * [NetNewsWire](https://ranchero.com/netnewswire/): 可以作为 Reeder 免费替代品
+  * ~[Reeder](http://reederapp.com/mac/): RSS 软件 - [搭建 RSS 服务](https://github.com/riskers/blog/issues/50)~
   * ~[follow](https://follow.is/)~: 收费了，已删除
-* [1password](https://1password.com/): 密码管理，有计划换成 [elpass](https://elpass.app/)
+* ~[1password](https://1password.com/): 密码管理~，已切换到 [bitwarden](https://bitwarden.com/)
 * 系统菜单栏管理
   * ~[bartender](https://www.macbartender.com/)~
   * [Ice](https://icemenubar.app/)
@@ -177,7 +171,7 @@
 
 * [Notion](https://www.notion.so/): 主力知识管理
 * [Dayone](https://dayoneapp.com/): 日记
-* [Joplin](https://joplinapp.org/): 支持 webdav，搭配坚果云做同步，一般用来写博客
+* ~[Joplin](https://joplinapp.org/): 支持 webdav，搭配坚果云做同步，一般用来写博客~
 * [MWeb](https://www.mweb.im/): 当作一款好用 MD 编辑器
 
 一般我用 Dayone 把每天做的事情记录下来，周末用 Notion 做个简单的周报。
