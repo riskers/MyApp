@@ -71,7 +71,7 @@
   * ~[Reeder](http://reederapp.com/mac/): RSS 软件 - [搭建 RSS 服务](https://github.com/riskers/blog/issues/50)~
   * ~[follow](https://follow.is/)~: 收费了，已删除
 * 密码管理: ~[1password](https://1password.com/)~，已切换到 [bitwarden](https://bitwarden.com/)
-* 看书，记录笔记: ~[MarginNote](https://www.marginnote.com/): ~，切换到 [reeden](https://reeden.app/)
+* 看书，记录笔记: ~[MarginNote](https://www.marginnote.com/)~，切换到 [reeden](https://reeden.app/)
 * [Skim](https://pdf.wondershare.net/ad/pdf-editor-mac.html): PDF 软件
 * [BLEUnlock](https://github.com/ts1/BLEUnlock): Apple Watch 自动解锁 Mac，感觉比 Apple 原生解锁合理一点
 * Video Download
