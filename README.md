@@ -1,10 +1,8 @@
-## 梯子
+## Mac 软件
 
-[fenghost](https://www.fenghost.net/aff.php?aff=5923&gid=15) 用了很多年，价格公道，速度可以
+### 梯子
 
 软件方面之前[总结](https://github.com/riskers/blog/issues/38)过，现在使用的是 clashX
-
-## Mac 软件
 
 ### 命令行
 
@@ -52,6 +50,36 @@
 * [MaxSnap](https://noteifyapp.com/maxsnap-mac-window-manager/): 快速移动窗口、改变窗口大小
 * [超级右键](https://apps.apple.com/cn/app/%E8%B6%85%E7%BA%A7%E5%8F%B3%E9%94%AE-irightmouse/id1497428978?mt=12): 丰富 Mac 右键
 * [Dash](https://kapeli.com/dash): API 查询，付费了
+* [Irvue](https://apps.apple.com/us/app/irvue/id1039633667?mt=12): 换 Mac 壁纸
+* 系统菜单栏管理
+  * ~[bartender](https://www.macbartender.com/)~
+  * [Ice](https://icemenubar.app/)
+  * ibar
+  * [hidden](https://github.com/dwarvesf/hidden)
+  * [vanilla](https://matthewpalmer.net/vanilla/)
+* [itsycal](https://www.mowglii.com/itsycal/): 菜单栏日历软件
+* 系统清理软件
+  * [CleanMyMac X](https://macpaw.com/cleanmymac): 已付费
+  * [腾讯柠檬大师](https://lemon.qq.com/): 作为 CleanMyMac 的替代品
+  * [easydevo](https://easydevo.boringboring.design/)
+  * 开源方案
+    * [Mole](https://github.com/tw93/Mole)
+    * [mac-cleanup](https://twitter.com/HiTw93/status/1754294011685142835) - 清理 Mac
+    * [GUI clean](https://github.com/mac-cleanup/mac-cleanup-py) - 清理 Mac
+* RSS
+  * [NetNewsWire](https://ranchero.com/netnewswire/): 可以作为 Reeder 免费替代品
+  * ~[Reeder](http://reederapp.com/mac/): RSS 软件 - [搭建 RSS 服务](https://github.com/riskers/blog/issues/50)~
+  * ~[follow](https://follow.is/)~: 收费了，已删除
+* 密码管理: ~[1password](https://1password.com/)~，已切换到 [bitwarden](https://bitwarden.com/)
+* 看书，记录笔记: ~[MarginNote](https://www.marginnote.com/): ~，切换到 [reeden](https://reeden.app/)
+* [Skim](https://pdf.wondershare.net/ad/pdf-editor-mac.html): PDF 软件
+* [BLEUnlock](https://github.com/ts1/BLEUnlock): Apple Watch 自动解锁 Mac，感觉比 Apple 原生解锁合理一点
+* Video Download
+  * [Downie](https://software.charliemonroe.net/downie/): 视频下载，收费
+  * [lux](https://github.com/iawia002/lux): 视频下载，免费
+* 看电影
+  * [IINA](https://github.com/iina/iina): 很好用的视频播放器
+  * [infuse](https://firecore.com/infuse): 支持云盘视频
 
 ### 开发工具
 
@@ -79,48 +107,24 @@
 
 ### 图片、视频
 
+#### 截图
+
 * ~[iShot](https://www.better365.cn/ishot.html): 用过的最好用的截图软件，可以加阴影~
+* ~[CleanShot X](https://cleanshot.com/): 截图软件，不过需要订阅，订阅费有点贵~
 * [Snipaste](https://www.snipaste.com/): 代替 iShot，因为贴图功能是免费的
-* ~[CleanShot X](https://cleanshot.com/): 史诗级截图软件，不过年订阅费有点贵~
-* [LICEcap](https://www.cockos.com/licecap/): GIF 录屏
 * [PicGo](https://github.com/Molunerfinn/PicGo): 图片上传到图床，我使用的是阿里云 OSS
   * [sapic](https://github.com/sapicd/sapic): 支持多种存储方式，需要自架
-* [getKap](https://getkap.co/): 视频录屏软件
-* [gifski](https://gif.ski/): 视频转成 GIF 图片
+
+#### 视频
+
+* 视频转 GIF
+  * [LICEcap](https://www.cockos.com/licecap/)
+  * [gifski](https://gif.ski/)
+* 录屏
+  * [getKap](https://getkap.co/)
+  * QuickTime
 
 <!-- https://www.jianshu.com/p/84f363d8fc1f -->
-
-### 其他
-
-* [CleanMyMac X](https://macpaw.com/cleanmymac): 系统清理软件
-  * [腾讯柠檬大师](https://lemon.qq.com/): 作为 CleanMyMac 的替代品
-  * [easydevo](https://easydevo.boringboring.design/)
-* 开源清理 Mac
-  * [Mole](https://github.com/tw93/Mole)
-  * [mac-cleanup](https://twitter.com/HiTw93/status/1754294011685142835) - 清理 Mac
-  * [GUI clean](https://github.com/mac-cleanup/mac-cleanup-py) - 清理 Mac 
-* [Irvue](https://apps.apple.com/us/app/irvue/id1039633667?mt=12): 换 Mac 壁纸
-* RSS
-  * [NetNewsWire](https://ranchero.com/netnewswire/): 可以作为 Reeder 免费替代品
-  * ~[Reeder](http://reederapp.com/mac/): RSS 软件 - [搭建 RSS 服务](https://github.com/riskers/blog/issues/50)~
-  * ~[follow](https://follow.is/)~: 收费了，已删除
-* ~[1password](https://1password.com/): 密码管理~，已切换到 [bitwarden](https://bitwarden.com/)
-* 系统菜单栏管理
-  * ~[bartender](https://www.macbartender.com/)~
-  * [Ice](https://icemenubar.app/)
-  * ibar
-  * [hidden](https://github.com/dwarvesf/hidden)
-  * [vanilla](https://matthewpalmer.net/vanilla/)
-* [itsycal](https://www.mowglii.com/itsycal/): 菜单栏日历软件
-* Video Download
-  * [Downie](https://software.charliemonroe.net/downie/): 视频下载，收费
-  * [lux](https://github.com/iawia002/lux): 视频下载，免费
-* [IINA](https://github.com/iina/iina): 很好用的视频播放器
-* [infuse](https://firecore.com/infuse): 支持云盘视频
-* [BLEUnlock](https://github.com/ts1/BLEUnlock): Apple Watch 自动解锁 Mac，感觉比 Apple 原生解锁合理一点
-* [Skim](https://pdf.wondershare.net/ad/pdf-editor-mac.html): PDF 软件
-* ~[MarginNote](https://www.marginnote.com/): 看 PDF 书籍，记录笔记~，切换到 [reeden](https://reeden.app/)
-
 
 ## 输出
 
@@ -145,15 +149,14 @@
 
 ### 脑图、流程图
 
-* https://whimsical.com/
 * https://excalidraw.com/
+* https://whimsical.com/
 * https://milanote.com/
 * https://miro.com/
 * https://webdemo.myscript.com/
 * https://www.zenflowchart.com/
 * https://asciiflow.com/#/
 * https://sketchboard.me/
-
 
 都是 [omnigraffle](https://www.omnigroup.com/omnigraffle) 的替代品，我用的是 whimsical 和 excalidraw 比较多，因为免费。
 
@@ -176,10 +179,16 @@
 
 一般我用 Dayone 把每天做的事情记录下来，周末用 Notion 做个简单的周报。
 
-### 财务管理
+~### 财务管理~
 
-* [beancount](https://github.com/beancount/beancount)
+~* [beancount](https://github.com/beancount/beancount)~
 
+## NAS
+
+* memos
+* immich
+* jeffyfin
+* vaultwarden
 
 ## Chrome 插件
 
@@ -214,7 +223,6 @@
   * https://jsonplaceholder.typicode.com/
   * https://fakerapi.com/
   * https://mockaroo.com/
-
 
 ## 字体
 
