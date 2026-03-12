@@ -185,6 +185,8 @@
 
 ## NAS
 
+webdav + syncthing 作为数据同步方案，软件支持 webdav 的就用 webdav，不支持的就用 syncthing。
+
 * memos
 * immich
 * jeffyfin
