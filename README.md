@@ -37,7 +37,8 @@
 
   > 完整见 [Brewfile](./Brewfile)，通过 `brew bundle dump --describe` 生成，换设备的话，执行 `brew bundle install` 就会安装 Brewfile 里所有的软件。
 
-* [tmux](https://github.com/tmux/tmux) - [配置](https://gist.github.com/riskers/4cf70b3de35906d0df7009ecbfeba3a7)
+* ~[tmux](https://github.com/tmux/tmux) - [配置](https://gist.github.com/riskers/4cf70b3de35906d0df7009ecbfeba3a7)~
+* [WindTerm](https://github.com/kingToolbox/WindTerm): SSH / TCP / SFTP 等协议客户端，半开源，免费，兼容 tmux
 
 ### 效率软件
 
