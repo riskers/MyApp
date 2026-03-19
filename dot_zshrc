@@ -70,8 +70,8 @@ alias ls="eza"
 alias ping="prettyping"
 alias top="btm"
 alias ps="procs"
-
 alias cc=claude
+alias cz=chezmoi
 # alias end
 
 # k8s auto complete
@@ -149,4 +149,3 @@ eval "$(fnm env --use-on-cd --shell zsh)"
 # if [ -n "$GHOSTTY_RESOURCES_DIR" ]; then
 #     source "$GHOSTTY_RESOURCES_DIR/shell-integration/zsh/ghostty-integration"
 # fi
-
