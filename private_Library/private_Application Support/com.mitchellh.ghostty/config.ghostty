@@ -1,0 +1,69 @@
+term=xterm-256color
+clipboard-read = allow
+clipboard-write = allow
+background-opacity = 0.9
+background-blur = 10
+
+# theme = Snazzy
+# theme = dark:Catppuccin Frappe,light:Catppuccin Latte
+
+font-family = "Comic Mono"
+font-feature = "calt"
+font-size = 16
+font-variation = "wght=500"
+font-thicken = true
+
+shell-integration = zsh
+
+window-width=120
+window-height=30
+window-padding-x = 10
+window-padding-y = 10
+window-save-state = never
+
+macos-option-as-alt = left
+fullscreen = false
+# 默认复制选中的文本
+copy-on-select = clipboard
+
+# cursor-color = #d9d9d9
+# cursor-text=#fff1ff
+cursor-style=block
+cursor-style-blink=false
+adjust-cursor-thickness=15
+
+# 配置图标
+# macos-icon = glass
+
+# 使用默认文本编辑器进行搜索
+# 以下两条配置会把完整的窗口文本信息输出到文本编辑器
+# 将当前的窗口回滚文件（不包含当前屏幕文本信息）使用默认文本编辑器打开
+keybind = command+f=write_scrollback_file:open
+# 将当前屏幕文本信息使用默认文本编辑器打开
+keybind = command+f=write_screen_file:open
+# command + <- 切换上一个窗口
+keybind = command+left=previous_tab
+# command + -> 切换下一个窗口
+keybind = command+right=next_tab
+
+# colors
+palette = 0=#000000
+palette = 1=#ef85ee
+palette = 2=#a2caa0
+palette = 3=#fae0c2
+palette = 4=#a1caf9
+palette = 5=#c6c5f9
+palette = 6=#a1caf9
+palette = 7=#e6e6e6
+palette = 8=#888888
+palette = 9=#ef85ee
+palette = 10=#b5f464
+palette = 11=#f8fdbe
+palette = 12=#afd4fb
+palette = 13=#c6c5f9
+palette = 14=#a1caf9
+palette = 15=#e6e6e6
+background = #1d1f21
+foreground = #d0d2d1
+selection-background = #565656
+selection-foreground = #d0d2d1
