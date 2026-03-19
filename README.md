@@ -7,7 +7,7 @@
 ### 命令行
 
 * ~[iTerm2](https://iterm2.com/)~，用 [ghostty](https://github.com/ghostty-org/ghostty) 代替，更快，配置更少
-* [WindTerm](https://github.com/kingToolbox/WindTerm)：做 SSH 客户端
+* [WindTerm](https://github.com/kingToolbox/WindTerm): SSH / TCP / SFTP 等协议客户端，半开源，免费，兼容 tmux
 * [ZSH](https://www.zsh.org/) + [oh my osh](https://ohmyz.sh/) 的组合，启用的插件有:
   * dotenv
   * git
@@ -36,7 +36,7 @@
   > 完整见 [Brewfile](./Brewfile)，通过 `brew bundle dump --describe` 生成，换设备的话，执行 `brew bundle install` 就会安装 Brewfile 里所有的软件。
 
 * ~[tmux](https://github.com/tmux/tmux) - [配置](https://gist.github.com/riskers/4cf70b3de35906d0df7009ecbfeba3a7)~
-* [WindTerm](https://github.com/kingToolbox/WindTerm): SSH / TCP / SFTP 等协议客户端，半开源，免费，兼容 tmux
+
 
 ### 效率软件
 
