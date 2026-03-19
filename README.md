@@ -2,20 +2,19 @@
 
 ### 梯子
 
-软件方面之前[总结](https://github.com/riskers/blog/issues/38)过，现在使用的是 clashX
+软件方面之前[总结](https://github.com/riskers/blog/issues/38)过，现在使用的是 ~clashX~ (现在用 [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev)，可以使用 tun 模式)。
 
 ### 命令行
 
-* [iTerm2](https://iterm2.com/) + [ZSH](https://www.zsh.org/) + [oh my osh](https://ohmyz.sh/) 的组合，启用的插件有:
-
+* ~[iTerm2](https://iterm2.com/)~，用 [ghostty](https://github.com/ghostty-org/ghostty) 代替，更快，配置更少
+* [WindTerm](https://github.com/kingToolbox/WindTerm)：做 SSH 客户端
+* [ZSH](https://www.zsh.org/) + [oh my osh](https://ohmyz.sh/) 的组合，启用的插件有:
   * dotenv
   * git
   * macos
   * docker
   * autojump
   * zsh-autosuggestions
-
-  [主题](https://www.slant.co/topics/7553/~theme-for-oh-my-zsh)
 
 * [homebrew](https://brew.sh/) 安装
   * [autojump](https://github.com/wting/autojump): 更容易地跳转到某个路径，节省大量时间
@@ -27,7 +26,6 @@
   * [fd](https://github.com/sharkdp/fd): better `find`
   * [fzf](https://github.com/junegunn/fzf): better `ctrl + f`
   * [bottom](https://github.com/ClementTsang/bottom): better `top`
-  * ~[exa](https://github.com/ogham/exa): better ls~
   * [eza](https://github.com/eza-community/eza) better ls
   * [tig](https://github.com/jonas/tig): git 扩展
   * [procs](https://github.com/dalance/procs): better `ps`
@@ -50,23 +48,19 @@
 * [airBuddy](https://v2.airbuddy.app/): 可以快速在多个 Mac 设备切换蓝牙设备
 * [MaxSnap](https://noteifyapp.com/maxsnap-mac-window-manager/): 快速移动窗口、改变窗口大小
 * [超级右键](https://apps.apple.com/cn/app/%E8%B6%85%E7%BA%A7%E5%8F%B3%E9%94%AE-irightmouse/id1497428978?mt=12): 丰富 Mac 右键
-* [Dash](https://kapeli.com/dash): API 查询，付费了
+* ~[Dash](https://kapeli.com/dash): API 查询，付费了~
 * [Irvue](https://apps.apple.com/us/app/irvue/id1039633667?mt=12): 换 Mac 壁纸
 * 系统菜单栏管理
   * ~[bartender](https://www.macbartender.com/)~
   * [Ice](https://icemenubar.app/)
-  * ibar
   * [hidden](https://github.com/dwarvesf/hidden)
   * [vanilla](https://matthewpalmer.net/vanilla/)
 * [itsycal](https://www.mowglii.com/itsycal/): 菜单栏日历软件
 * 系统清理软件
   * [CleanMyMac X](https://macpaw.com/cleanmymac): 已付费
+  * [Mole](https://github.com/tw93/Mole): 开源方案
   * [腾讯柠檬大师](https://lemon.qq.com/): 作为 CleanMyMac 的替代品
   * [easydevo](https://easydevo.boringboring.design/)
-  * 开源方案
-    * [Mole](https://github.com/tw93/Mole)
-    * [mac-cleanup](https://twitter.com/HiTw93/status/1754294011685142835) - 清理 Mac
-    * [GUI clean](https://github.com/mac-cleanup/mac-cleanup-py) - 清理 Mac
 * RSS
   * [NetNewsWire](https://ranchero.com/netnewswire/): 可以作为 Reeder 免费替代品
   * ~[Reeder](http://reederapp.com/mac/): RSS 软件 - [搭建 RSS 服务](https://github.com/riskers/blog/issues/50)~
@@ -101,7 +95,7 @@
   * [robo 3T](https://robomongo.org/): MongoDB GUI 软件
   * [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager): Redis GUI 软件
 * k8s
-  * ~[Docker Desktop](https://www.docker.com/products/docker-desktop/)~ [orbstack](https://orbstack.dev/)
+  * ~[Docker Desktop](https://www.docker.com/products/docker-desktop/)~ [orbstack](https://orbstack.dev/) 代替
   * [Lens](https://k8slens.dev/): k8s GUI
 
 <!-- 改键软件: https://github.com/pqrs-org/Karabiner-Elements -->
@@ -175,7 +169,6 @@
 
 * [Notion](https://www.notion.so/): 主力知识管理
 * [Dayone](https://dayoneapp.com/): 日记
-* ~[Joplin](https://joplinapp.org/): 支持 webdav，搭配坚果云做同步，一般用来写博客~
 * [MWeb](https://www.mweb.im/): 当作一款好用 MD 编辑器
 
 一般我用 Dayone 把每天做的事情记录下来，周末用 Notion 做个简单的周报。
@@ -186,18 +179,24 @@
 
 ## NAS
 
-webdav + syncthing 作为数据同步方案，软件支持 webdav 的就用 webdav，不支持的就用 syncthing。
+NAS 上安装的软件：
 
 * memos
 * immich
 * jeffyfin
 * vaultwarden
+* syncthing: 将 NAS 作为同步盘
+* cloudflared tunnel: NAS 挂在自己的域名上
+
+## 数据同步方案
+
+* webdav + [syncthing](https://github.com/syncthing/syncthing): 软件默认支持 webdav 的(如 clash-verge、reeden)就用 webdav，不支持的就用 syncthing 把 NAS 当作同步盘来用。
+* [chezmoi](https://github.com/twpayne/chezmoi): 管理一些配置文件(如 .zshrc 、Brewfile) 等不适合放在一个文件夹中的琐碎小文件
 
 ## Chrome 插件
 
 * ~Proxy SwitchyOmega~, [zero omega](https://github.com/zero-peak/ZeroOmega)
 * JSONView
-* Vimium
 * AdBlock
 * Momentum
 * Raindrop.io: 收藏夹
@@ -208,24 +207,8 @@ webdav + syncthing 作为数据同步方案，软件支持 webdav 的就用 webd
 * Relingo: 划词类翻译软件
 * **Requestly** / ModHeader: 拦截请求
 
-## 在线应用
-
-* [herowand](https://editor.herowand.com/): 可视化 JSON、CSV 等
-* sheel 命令解释查询: https://www.explainshell.com/
-* 调试正则
-  * http://refiddle.com/
-  * https://regex101.com/
-* 调试 glob: https://globster.xyz/
-* 调试 AST: https://astexplorer.net/
-* 邮件签名图: https://github.com/o2team/sign
-* 在线设计图片
-  * https://www.canva.cn/
-  * https://designer.microsoft.com/
-  * https://pearmini.github.io/colorfu/
-* Mock API Server
-  * https://jsonplaceholder.typicode.com/
-  * https://fakerapi.com/
-  * https://mockaroo.com/
+## 虚拟机
+* Virtual Box: 免费
 
 ## 字体
 
