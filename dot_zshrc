@@ -1,14 +1,14 @@
 # Add deno completions to search path
-if [[ ":$FPATH:" != *":/Users/gaoyibo/.zsh/completions:"* ]]; then export FPATH="/Users/gaoyibo/.zsh/completions:$FPATH"; fi
+if [[ ":$FPATH:" != *":$HOME/.zsh/completions:"* ]]; then export FPATH="$HOME/.zsh/completions:$FPATH"; fi
 bindkey '\e[1;3D' backward-word       # ALT+左键：向后跳一个单词
 bindkey '\e[1;3C' forward-word        # ALT+右键：前跳一个单词
 
 # If you come from bash you might have to change your $PATH.
 export PATH=$PATH:$HOME/bin:/usr/local/bin
-export PATH=$PATH:/Users/gaoyibo/flutter/bin
-export PATH=$PATH:/Users/gaoyibo/go/bin
-export PATH=$PATH:/Users/gaoyibo
-export PATH=$PATH:/Users/gaoyibo/opt/anaconda3/bin
+export PATH=$PATH:$HOME/flutter/bin
+export PATH=$PATH:$HOME/go/bin
+export PATH=$PATH:$HOME
+export PATH=$PATH:$HOME/opt/anaconda3/bin
 
 export LC_ALL='en_US.UTF-8'
 export LANG='en_US.UTF-8'
@@ -46,7 +46,7 @@ source $ZSH/oh-my-zsh.sh
 
 # tabtab source for electron-forge package
 # uninstall by removing these lines or running `tabtab uninstall electron-forge`
-[[ -f /Users/gaoyibo/github/electron-react-boilerplate/node_modules/tabtab/.completions/electron-forge.zsh ]] && . /Users/gaoyibo/github/electron-react-boilerplate/node_modules/tabtab/.completions/electron-forge.zsh
+[[ -f $HOME/github/electron-react-boilerplate/node_modules/tabtab/.completions/electron-forge.zsh ]] && . $HOME/github/electron-react-boilerplate/node_modules/tabtab/.completions/electron-forge.zsh
 
 # alias start
 ## shadow socks5 http proxy:
@@ -114,7 +114,7 @@ export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
 export DOCKER_BUILDKIT=0
 
 # pnpm
-export PNPM_HOME="/Users/gaoyibo/Library/pnpm"
+export PNPM_HOME="$HOME/Library/pnpm"
 export PATH="$PNPM_HOME:$PATH"
 # pnpm end
 
@@ -122,7 +122,7 @@ export TA_INCLUDE_PATH="$(brew --prefix ta-lib)/include"
 export TA_LIBRARY_PATH="$(brew --prefix ta-lib)/lib"
 
 # Wasmer
-export WASMER_DIR="/Users/gaoyibo/.wasmer"
+export WASMER_DIR="$HOME/.wasmer"
 [ -s "$WASMER_DIR/wasmer.sh" ] && source "$WASMER_DIR/wasmer.sh"
 
 export WASMTIME_HOME="$HOME/.wasmtime"
@@ -130,17 +130,17 @@ export PATH="$WASMTIME_HOME/bin:$PATH"
 
 # Haskell
 export PATH="~/.ghcup/hls/2.7.0.0/bin/haskell-language-server-wrapper:$PATH"
-[ -f "/Users/gaoyibo/.ghcup/env" ] && source "/Users/gaoyibo/.ghcup/env" # ghcup-env
+[ -f "$HOME/.ghcup/env" ] && source "$HOME/.ghcup/env" # ghcup-env
 
 # hide hostname and username
 DISABLE_AUTO_TITLE="true"
 
-export PATH="$PATH:/Users/gaoyibo/.lmstudio/bin"
+export PATH="$PATH:$HOME/.lmstudio/bin"
 
 export PATH="$HOME/.local/share/solana/install/active_release/bin:$PATH"
 
 # opencode
-export PATH=/Users/gaoyibo/.opencode/bin:$PATH
+export PATH=$HOME/.opencode/bin:$PATH
 
 # fnm
 eval "$(fnm env --use-on-cd --shell zsh)"
