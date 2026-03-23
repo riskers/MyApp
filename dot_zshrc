@@ -49,7 +49,7 @@ source $ZSH/oh-my-zsh.sh
 [[ -f $HOME/github/electron-react-boilerplate/node_modules/tabtab/.completions/electron-forge.zsh ]] && . $HOME/github/electron-react-boilerplate/node_modules/tabtab/.completions/electron-forge.zsh
 
 # alias start
-## shadow socks5 http proxy:
+## socks5 proxy:
 alias p-on='export https_proxy=http://127.0.0.1:8891 http_proxy=http://127.0.0.1:8891 all_proxy=socks5://127.0.0.1:8891'
 alias p-off='unset http_proxy;unset https_proxy'
 
