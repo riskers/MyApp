@@ -31,6 +31,8 @@ brew "ethereum"
 brew "eza"
 # Web interface for the double-entry bookkeeping software Beancount
 brew "fava"
+# Simple, fast and user-friendly alternative to find
+brew "fd"
 # Fast and simple Node.js version manager
 brew "fnm"
 # Command-line fuzzy finder written in Go
@@ -39,6 +41,8 @@ brew "fzf"
 brew "gemini-cli", link: false
 # GitHub command-line tool
 brew "gh"
+# Syntax-highlighting pager for git and diff output
+brew "git-delta"
 # Git extension for versioning large files
 brew "git-lfs"
 # Open source programming language to build simple/reliable/efficient software
@@ -97,8 +101,12 @@ brew "protoc-gen-go"
 brew "protoc-gen-go-grpc"
 # Software environment for statistical computing
 brew "r"
+# Search tool like grep and The Silver Searcher
+brew "ripgrep"
 # JVM-based programming language
 brew "scala"
+# Cross-shell prompt for astronauts
+brew "starship"
 # Tools for market analysis
 brew "ta-lib"
 # User interface to the TELNET protocol
@@ -117,8 +125,12 @@ brew "yazi"
 brew "zellij"
 # Fish-like fast/unobtrusive autosuggestions for zsh
 brew "zsh-autosuggestions"
+# Additional completion definitions for zsh
+brew "zsh-completions"
 # Zsh port of Fish shell's history search
 brew "zsh-history-substring-search"
+# Fish shell like syntax highlighting for zsh
+brew "zsh-syntax-highlighting"
 # SDK
 brew "dart-lang/dart/dart"
 # Redis desktop manager

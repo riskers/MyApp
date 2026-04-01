@@ -15,6 +15,9 @@ if [[ "~/opt/miniconda3" ]]; then
     export PATH=$PATH:~/opt/miniconda3/bin
 fi
 
+# starship
+eval "$(starship init zsh)"
+
 # Android
 export ANDROID_HOME=$HOME/Library/Android/sdk
 export PATH=$PATH:$ANDROID_HOME/tools
@@ -25,24 +28,31 @@ export PATH=$PATH:$ANDROID_HOME/emulator
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
-ZSH_THEME="robbyrussell"
+# ZSH_THEME="robbyrussell"
 # ZSH_THEME="bira"
 
-plugins=(
-  dotenv
-  git
-  macos
-  docker
-  autojump
-)
+# plugins=(
+#   sudo
+#   dotenv
+#   git
+#   brew
+#   macos
+#   docker
+#   autojump
+# )
 
 # Path to your oh-my-zsh installation.
-export ZSH=$HOME/.oh-my-zsh
+# export ZSH=$HOME/.oh-my-zsh
+# source $ZSH/oh-my-zsh.sh
 
 # zsh plugin
-source $ZSH/oh-my-zsh.sh
+source $(brew --prefix)/share/autojump/autojump.zsh
 source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
-if [[ ":$FPATH:" != *":$HOME/.zsh/completions:"* ]]; then export FPATH="$HOME/.zsh/completions:$FPATH"; fi
+source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+## zsh-completes config start
+zstyle ':completion:*' menu select
+autoload -Uz compinit && compinit
+## zsh-completes config end
 
 # tabtab source for electron-forge package
 # uninstall by removing these lines or running `tabtab uninstall electron-forge`
@@ -66,12 +76,15 @@ alias kgd='kubectl get deployments'
 
 ## some app
 alias sb="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'"
+alias cat="bat"
 alias ls="eza"
+alias find="fd"
 alias ping="prettyping"
 alias top="btm"
+alias cz=chezmoi
+alias grep="rg"
 alias ps="procs"
 alias cc=claude
-alias cz=chezmoi
 # alias end
 
 # k8s auto complete
@@ -86,7 +99,6 @@ export PATH="/opt/homebrew/Cellar/python@3.10/3.10.14/bin:$PATH"
 export PATH="/usr/local/opt/openresty-openssl111/bin:$PATH"
 export PATH="/usr/local/Cellar/openresty/1.19.3.1_1/bin:$PATH"
 export PATH="/usr/local/Cellar/openresty/1.19.3.1_1/nginx/sbin:$PATH"
-source ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!

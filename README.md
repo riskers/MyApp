@@ -6,38 +6,13 @@
 
 ### 命令行
 
-* ~[iTerm2](https://iterm2.com/)~，用 [ghostty](https://github.com/ghostty-org/ghostty) 代替，更快，[配置](https://gist.github.com/riskers/e1b92737c8d6ff23b663ec27abf57dcf)更少
+* ~[iTerm2](https://iterm2.com/)~，用 [ghostty](https://github.com/ghostty-org/ghostty) 代替，更快，[配置](./ghostty.config)更少
 * [WindTerm](https://github.com/kingToolbox/WindTerm): SSH / TCP / SFTP 等协议客户端，半开源，免费，兼容 tmux
-* [ZSH](https://www.zsh.org/) + [oh my osh](https://ohmyz.sh/) 的组合，启用的插件有:
-  * dotenv
-  * git
-  * macos
-  * docker
-  * autojump
-  * zsh-autosuggestions
-
-* [homebrew](https://brew.sh/) 安装
-  * [autojump](https://github.com/wting/autojump): 更容易地跳转到某个路径，节省大量时间
-  * [tldr](https://tldr.sh/): better `man`
-  * [cheat.sh](https://github.com/chubin/cheat.sh): better `man`
-  * [httpie](https://httpie.io/): better `curl`
-  * [prettyping](https://github.com/denilsonsa/prettyping): better `ping`
-  * [bat](https://github.com/sharkdp/bat): better `cat`
-  * [fd](https://github.com/sharkdp/fd): better `find`
-  * [fzf](https://github.com/junegunn/fzf): better `ctrl + f`
-  * [bottom](https://github.com/ClementTsang/bottom): better `top`
-  * [eza](https://github.com/eza-community/eza) better ls
-  * [tig](https://github.com/jonas/tig): git 扩展
-  * [procs](https://github.com/dalance/procs): better `ps`
-  * [gib](https://github.com/DavSanchez/gib): 生成 .gitignore 文件
-  * [mecert](https://github.com/FiloSottile/mkcert): 生成自签名证书
-  * kubectl / helm
-
-  > 完整见 [Brewfile](./Brewfile)，通过 `brew bundle dump --describe` 生成，换设备的话，执行 `brew bundle install` 就会安装 Brewfile 里所有的软件。
+* [ZSH](https://www.zsh.org/) + [starship](https://github.com/starship/starship)
+* [homebrew](https://brew.sh/)，完整目录见 [Brewfile](./Brewfile)
+  > 通过 `brew bundle dump --describe` 生成，换设备的话，执行 `brew bundle install` 就会安装 Brewfile 里所有的软件。
 
 * ~[tmux](https://github.com/tmux/tmux) - [安装使用](https://github.com/riskers/MyApp/issues/8)~，用 [zellij](https://github.com/zellij-org/zellij) 代替，配置少，好用
-
-
 
 ### 效率软件
 
