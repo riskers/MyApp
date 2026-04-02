@@ -101,6 +101,7 @@ brew bundle install
   * [LICEcap](https://www.cockos.com/licecap/)
   * [gifski](https://gif.ski/)
 * 录屏
+  * CleanShot X
   * [getKap](https://getkap.co/)
   * QuickTime
 
