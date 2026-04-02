@@ -16,6 +16,11 @@ adjust-cell-height = 2
 # --- Shell Integration ---
 shell-integration = zsh
 
+# --- Window ---
+working-directory = home
+window-inherit-working-directory = false
+tab-inherit-working-directory = false
+
 # term=xterm-256color
 # clipboard-read = allow
 # clipboard-write = allow
@@ -51,7 +56,7 @@ background-opacity = 0.9
 background-blur = 10
 background-blur-radius = 30
 macos-titlebar-style = transparent
-window-padding-x = 10
+window-padding-x = 12
 window-padding-y = 8
 window-save-state = always
 window-theme = auto
@@ -66,7 +71,6 @@ copy-on-select = clipboard
 # --- Cursor ---
 cursor-style=block
 cursor-style-blink=false
-# adjust-cell-height = 2
 adjust-cursor-thickness=16
 
 # 配置图标

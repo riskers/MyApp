@@ -1,12 +1,19 @@
 ## Mac 软件
 
+```sh
+# https://github.com/riskers/MyApp/issues/9
+chezmoi init --apply git@github.com:riskers/dotfiles.git
+
+brew bundle install
+```
+
 ### 梯子
 
 软件方面之前[总结](https://github.com/riskers/blog/issues/38)过，现在使用的是 ~clashX~ (现在用 [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev)，可以使用 tun 模式)。
 
 ### 命令行
 
-* ~[iTerm2](https://iterm2.com/)~，用 [ghostty](https://github.com/ghostty-org/ghostty) 代替，更快，[配置](./ghostty.config)更少
+* ~[iTerm2](https://iterm2.com/)~，用 [ghostty](https://github.com/ghostty-org/ghostty) 代替，更快，[配置](./private_dot_config/ghostty/config)更少
 * [WindTerm](https://github.com/kingToolbox/WindTerm): SSH / TCP / SFTP 等协议客户端，半开源，免费，兼容 tmux
 * [ZSH](https://www.zsh.org/) + [starship](https://github.com/starship/starship)
 * [homebrew](https://brew.sh/)，完整目录见 [Brewfile](./Brewfile)
@@ -88,14 +95,14 @@
 
 #### 视频
 
+> https://www.jianshu.com/p/84f363d8fc1f
+
 * 视频转 GIF
   * [LICEcap](https://www.cockos.com/licecap/)
   * [gifski](https://gif.ski/)
 * 录屏
   * [getKap](https://getkap.co/)
   * QuickTime
-
-<!-- https://www.jianshu.com/p/84f363d8fc1f -->
 
 ## 输出
 
@@ -148,10 +155,6 @@
 * [MWeb](https://www.mweb.im/): 当作一款好用 MD 编辑器
 
 一般我用 Dayone 把每天做的事情记录下来，周末用 Notion 做个简单的周报。
-
-~### 财务管理~
-
-~* [beancount](https://github.com/beancount/beancount)~
 
 ## NAS
 

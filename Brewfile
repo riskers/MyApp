@@ -57,6 +57,8 @@ brew "helm"
 brew "htop"
 # Apache HTTP server
 brew "httpd", restart_service: :changed
+# User-friendly cURL replacement (command-line HTTP client)
+brew "httpie"
 # C/C++ and Java libraries for Unicode and globalization
 brew "icu4c@76"
 # Library to communicate with iOS devices natively
@@ -123,14 +125,8 @@ brew "wget"
 brew "yazi"
 # Pluggable terminal workspace, with terminal multiplexer as the base feature
 brew "zellij"
-# Fish-like fast/unobtrusive autosuggestions for zsh
-brew "zsh-autosuggestions"
-# Additional completion definitions for zsh
-brew "zsh-completions"
-# Zsh port of Fish shell's history search
-brew "zsh-history-substring-search"
-# Fish shell like syntax highlighting for zsh
-brew "zsh-syntax-highlighting"
+# Next-generation plugin manager for zsh
+brew "zplug"
 # SDK
 brew "dart-lang/dart/dart"
 # Redis desktop manager
@@ -290,5 +286,6 @@ go "honnef.co/go/tools/cmd/staticcheck"
 cargo "avm"
 cargo "cargo-edit"
 cargo "cargo-expand"
+cargo "rust_tree"
 uv "ruff"
 uv "specify-cli"
