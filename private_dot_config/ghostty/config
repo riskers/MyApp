@@ -21,7 +21,7 @@ working-directory = home
 window-inherit-working-directory = false
 tab-inherit-working-directory = false
 
-# term=xterm-256color
+term = xterm-256color
 # clipboard-read = allow
 # clipboard-write = allow
 
