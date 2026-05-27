@@ -1,5 +1,7 @@
 ## Mac 软件
 
+### 同步
+
 ```sh
 # https://github.com/riskers/MyApp/issues/9
 chezmoi init --apply git@github.com:riskers/dotfiles.git
@@ -170,8 +172,14 @@ NAS 上安装的软件：
 
 ## 数据同步方案
 
-* webdav + [syncthing](https://github.com/syncthing/syncthing): 软件默认支持 webdav 的(如 clash-verge、reeden)就用 webdav，不支持的就用 syncthing 把 NAS 当作同步盘来用。
-* [chezmoi](https://github.com/twpayne/chezmoi): 管理一些配置文件(如 .zshrc 、Brewfile) 等不适合放在一个文件夹中的琐碎小文件
+* webdav + [syncthing](https://github.com/syncthing/syncthing):
+
+  * 在 NAS 上开启 webdav，并且安装了 syncthing
+  * 如果软件支持 webdav (如 clash-verge、reeden)就用 webdav，不支持的就用 syncthing 把 NAS 当作同步盘来用。
+  * 在 NAS 上再安装类似 TaoSync / Alist 这样的网盘同步工具，绿联 NAS 自带了「网盘同步」App
+  * 把上面的 webdav 和 syncthing 数据再备份一次到百度网盘，做到数据万无一失。
+
+* [chezmoi](https://github.com/twpayne/chezmoi): 管理一些配置文件(如 .zshrc 、Brewfile) 等不适合放在一个文件夹中的琐碎小文件，见 [同步](#同步)
 
 ## Chrome 插件
 
