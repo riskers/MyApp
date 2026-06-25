@@ -194,9 +194,9 @@ NAS 上安装的软件：
 * Grammarly
 * Language Reactor: YT 翻译软件
 * Relingo: 划词类翻译软件
-* **Requestly** / ModHeader: 拦截请求
 
 ## 虚拟机
+
 * Virtual Box: 免费
 
 ## 字体
