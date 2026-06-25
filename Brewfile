@@ -25,8 +25,6 @@ brew "cocoapods"
 brew "erlang"
 # Functional metaprogramming aware language built on Erlang VM
 brew "elixir"
-# Official Go implementation of the Ethereum protocol
-brew "ethereum"
 # Modern, maintained replacement for ls
 brew "eza"
 # Web interface for the double-entry bookkeeping software Beancount
@@ -38,7 +36,7 @@ brew "fnm"
 # Command-line fuzzy finder written in Go
 brew "fzf"
 # Interact with Google Gemini AI models from the command-line
-brew "gemini-cli", link: false
+brew "gemini-cli"
 # GitHub command-line tool
 brew "gh"
 # Syntax-highlighting pager for git and diff output
@@ -121,14 +119,14 @@ brew "tmux"
 brew "tomcat"
 # Internet file retriever
 brew "wget"
+# Why is this running?
+brew "witr"
 # Blazing fast terminal file manager written in Rust, based on async I/O
 brew "yazi"
 # Pluggable terminal workspace, with terminal multiplexer as the base feature
 brew "zellij"
 # Next-generation plugin manager for zsh
 brew "zplug"
-# SDK
-brew "dart-lang/dart/dart"
 # Redis desktop manager
 cask "another-redis-desktop-manager"
 # Desktop password and login vault
@@ -179,15 +177,12 @@ vscode "folke.vscode-monorepo-workspace"
 vscode "formulahendry.code-runner"
 vscode "gerrnperl.outline-map"
 vscode "github.codespaces"
-vscode "github.copilot-chat"
 vscode "github.github-vscode-theme"
 vscode "github.vscode-pull-request-github"
 vscode "golang.go"
-vscode "gruntfuggly.todo-tree"
 vscode "haskell.haskell"
 vscode "heron.firefox-devtools-theme"
 vscode "interactive-smartlog.interactive-smartlog"
-vscode "iolitelabs.solidity-macos"
 vscode "jakebecker.elixir-ls"
 vscode "jock.svg"
 vscode "juanblanco.solidity"
@@ -223,6 +218,7 @@ vscode "ms-vscode.powershell"
 vscode "ms-vscode.remote-explorer"
 vscode "ms-vscode.remote-server"
 vscode "ms-vscode.sublime-keybindings"
+vscode "ms-vscode.vscode-chat-customizations-evaluations"
 vscode "ms-vscode.vscode-js-profile-flame"
 vscode "ms-vscode.vscode-typescript-next"
 vscode "ms-vsliveshare.vsliveshare"
@@ -260,7 +256,6 @@ vscode "usernamehw.errorlens"
 vscode "vadimcn.vscode-lldb"
 vscode "vue.volar"
 vscode "wakatime.vscode-wakatime"
-vscode "wicked-labs.wvsc-serendipity"
 vscode "yatki.vscode-surround"
 vscode "yzane.markdown-pdf"
 go "github.com/go-delve/delve/cmd/dlv"
@@ -289,3 +284,5 @@ cargo "cargo-expand"
 cargo "rust_tree"
 uv "ruff"
 uv "specify-cli"
+npm "corepack"
+npm "openclaw"
