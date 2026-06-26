@@ -1,6 +1,7 @@
 tap "dart-lang/dart"
 tap "farion1231/ccswitch"
 tap "homebrew/services"
+tap "oomol-lab/tap"
 # Companion library to apr, the Apache Portable Runtime library
 brew "apr-util"
 # Shell extension to jump to frequently used directories
@@ -137,13 +138,14 @@ cask "codex"
 cask "ghostty"
 # Snippet management app
 cask "lepton"
+# Menu-bar app that locks the keyboard input source
+cask "oomol-lab/tap/lockime", trusted: true
 # Full TeX Live distribution with GUI applications
 cask "mactex"
 # Replacement for Docker Desktop
 cask "orbstack"
 # App to switch hosts
 cask "switchhosts"
-cask "switchkey"
 vscode "adamsome.vscode-theme-gruvbox-minor"
 vscode "alexisvt.flutter-snippets"
 vscode "alibaba-cloud.tongyi-lingma"
