@@ -75,14 +75,15 @@ brew bundle install
   * [VSCode port forwarding](https://code.visualstudio.com/docs/editor/port-forwarding)
   * [ngrok](https://ngrok.com/): 内网穿透软件
   * [bore](https://github.com/ekzhang/bore): 另一款内网穿透软件
-* DB
-  * navicat: 现在也有社区版了
-  * [dbeaver](https://dbeaver.com/): 免费的数据库 GUI 软件
-  * [robo 3T](https://robomongo.org/): MongoDB GUI 软件
-  * [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager): Redis GUI 软件
+* DB GUI
+  * [dbx](https://dbxio.com/): 常用的 db 都包含了
+  * ~navicat: 现在也有社区版了~
+  * ~[dbeaver](https://dbeaver.com/): 免费的数据库 GUI 软件~
+  * ~[robo 3T](https://robomongo.org/): MongoDB GUI 软件~
+  * ~[AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager): Redis GUI 软件~
 * k8s
   * ~[Docker Desktop](https://www.docker.com/products/docker-desktop/)~ [orbstack](https://orbstack.dev/) 代替
-  * [Lens](https://k8slens.dev/): k8s GUI
+  * ~[Lens](https://k8slens.dev/): k8s GUI~
 
 <!-- 改键软件: https://github.com/pqrs-org/Karabiner-Elements -->
 
