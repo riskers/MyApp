@@ -1,3 +1,5 @@
+# Add deno completions to search path
+if [[ ":$FPATH:" != *":/Users/gaoyibo/.zsh/completions:"* ]]; then export FPATH="/Users/gaoyibo/.zsh/completions:$FPATH"; fi
 bindkey '\e[1;3D' backward-word       # ALT+左键：向后跳一个单词
 bindkey '\e[1;3C' forward-word        # ALT+右键：前跳一个单词
 
@@ -171,3 +173,7 @@ export PATH=$PATH:$ANDROID_HOME/emulator
 if [ -n "$GHOSTTY_RESOURCES_DIR" ]; then
     source "$GHOSTTY_RESOURCES_DIR/shell-integration/zsh/ghostty-integration"
 fi
+
+# opencode
+export PATH=/Users/gaoyibo/.opencode/bin:$PATH
+. "/Users/gaoyibo/.deno/env"
