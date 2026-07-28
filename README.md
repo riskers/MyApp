@@ -37,7 +37,8 @@ brew bundle install
 * [Irvue](https://apps.apple.com/us/app/irvue/id1039633667?mt=12): 换 Mac 壁纸
 * 系统菜单栏管理
   * ~[bartender](https://www.macbartender.com/)~
-  * [Ice](https://icemenubar.app/)
+  * ~[Ice](https://icemenubar.app/)~
+  * [Thaw](https://github.com/thaw-app/Thaw)
   * [hidden](https://github.com/dwarvesf/hidden)
   * [vanilla](https://matthewpalmer.net/vanilla/)
 * [itsycal](https://www.mowglii.com/itsycal/): 菜单栏日历软件
@@ -99,7 +100,7 @@ brew bundle install
 
 #### 视频
 
-> https://www.jianshu.com/p/84f363d8fc1f
+> <https://www.jianshu.com/p/84f363d8fc1f>
 
 * 视频转 GIF
   * [LICEcap](https://www.cockos.com/licecap/)
@@ -128,30 +129,30 @@ brew bundle install
   * [slides](https://slides.com/): 在线 PPT 工具
   * [sway](https://sway.office.com/): 在线 PPT 工具
 * 素材
-  * https://www.iconfont.cn/
+  * <https://www.iconfont.cn/>
 
 ### 脑图、流程图
 
-* https://excalidraw.com/
-* https://whimsical.com/
-* https://milanote.com/
-* https://miro.com/
-* https://webdemo.myscript.com/
-* https://www.zenflowchart.com/
-* https://asciiflow.com/#/
-* https://sketchboard.me/
+* <https://excalidraw.com/>
+* <https://whimsical.com/>
+* <https://milanote.com/>
+* <https://miro.com/>
+* <https://webdemo.myscript.com/>
+* <https://www.zenflowchart.com/>
+* <https://asciiflow.com/#/>
+* <https://sketchboard.me/>
 
 都是 [omnigraffle](https://www.omnigroup.com/omnigraffle) 的替代品，我用的是 whimsical 和 excalidraw 比较多，因为免费。
 
 ### 图片
 
 * 代码生成图片:
-  * https://carbon.now.sh/
-  * https://ray.so/
-  * https://text2image.jaychen.fun/
+  * <https://carbon.now.sh/>
+  * <https://ray.so/>
+  * <https://text2image.jaychen.fun/>
 * PPT 背景图
-  * https://coolbackgrounds.io/
-  * https://www.hituyu.com/
+  * <https://coolbackgrounds.io/>
+  * <https://www.hituyu.com/>
 
 ### 笔记
 
