@@ -1,3 +1,4 @@
+tap "amir1376/tap", trusted: true
 tap "dart-lang/dart"
 tap "farion1231/ccswitch"
 tap "homebrew/services"
@@ -126,16 +127,12 @@ brew "yazi"
 brew "zellij"
 # Next-generation plugin manager for zsh
 brew "zplug"
-# Redis desktop manager
-cask "another-redis-desktop-manager"
 # Desktop password and login vault
 cask "bitwarden"
 # OpenAI's coding agent that runs in your terminal
 cask "codex"
 # Terminal emulator that uses platform-native UI and GPU acceleration
 cask "ghostty"
-# Snippet management app
-cask "lepton"
 # Menu-bar app that locks the keyboard input source
 cask "oomol-lab/tap/lockime", trusted: true
 # Full TeX Live distribution with GUI applications
@@ -181,6 +178,7 @@ vscode "github.github-vscode-theme"
 vscode "github.vscode-pull-request-github"
 vscode "golang.go"
 vscode "haskell.haskell"
+vscode "haskell.language-haskell"
 vscode "heron.firefox-devtools-theme"
 vscode "interactive-smartlog.interactive-smartlog"
 vscode "jakebecker.elixir-ls"
@@ -224,6 +222,7 @@ vscode "ms-vsliveshare.vsliveshare"
 vscode "nomicfoundation.hardhat-solidity"
 vscode "octref.vetur"
 vscode "ohanedan.lowlight-go-errors"
+vscode "openai.chatgpt"
 vscode "oracle.mysql-shell-for-vs-code"
 vscode "panicbit.cargo"
 vscode "ppz.ppz"
@@ -281,6 +280,8 @@ cargo "cargo-edit"
 cargo "cargo-expand"
 cargo "rust_tree"
 uv "ruff"
-uv "specify-cli"
+uv "specify-cli", source: "git+https://github.com/github/spec-kit.git"
+npm "@dbx-app/mcp-server"
+npm "@larksuite/cli"
 npm "corepack"
 npm "openclaw"
