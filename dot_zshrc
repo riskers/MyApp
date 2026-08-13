@@ -6,11 +6,12 @@ bindkey '\e[1;3C' forward-word        # ALT+右键：前跳一个单词
 export WORDCHARS='*?_-.[]~=&;!#$%^(){}<>'
 
 # If you come from bash you might have to change your $PATH.
+export PATH=$PATH:$HOME
 export PATH=$PATH:$HOME/bin:/usr/local/bin
 export PATH=$PATH:$HOME/flutter/bin
 export PATH=$PATH:$HOME/go/bin
-export PATH=$PATH:$HOME
 export PATH=$PATH:$HOME/opt/anaconda3/bin
+export PATH=$PATH:$HOME/.bun/bin
 
 export LC_ALL='en_US.UTF-8'
 export LANG='en_US.UTF-8'
