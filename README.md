@@ -25,6 +25,8 @@ brew bundle install
 
 ### 效率软件
 
+> 宗旨是有开源的就尽量不用商业的
+
 * [RIME](https://rime.im/): 速度很快的输入法，本地安装不联网 - [配置](https://gist.github.com/riskers/9bd441f0483325ef991f2b40da7d2eed)
 * [SwitchKey](https://github.com/itsuhane/SwitchKey): 快速切换输入法
 * [Alfred](https://www.alfredapp.com/): 快速启动应用、粘贴版管理、Snippets 用得最多
@@ -58,9 +60,11 @@ brew bundle install
 * Video Download
   * [Downie](https://software.charliemonroe.net/downie/): 视频下载，收费
   * [lux](https://github.com/iawia002/lux): 视频下载，免费
-* 看电影
-  * [IINA](https://github.com/iina/iina): 很好用的视频播放器
+* 视频播放器
+  * [IINA](https://github.com/iina/iina): 很好用的
   * [infuse](https://firecore.com/infuse): 支持云盘视频
+* 邮件客户端
+  * [thunderbird](https://www.thunderbird.net/en-US/thunderbird/all/)
 
 ### 开发工具
 
@@ -83,6 +87,7 @@ brew bundle install
   * ~[robo 3T](https://robomongo.org/): MongoDB GUI 软件~
   * ~[AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager): Redis GUI 软件~
 * k8s
+  * [orbstack](https://orbstack.dev/)
   * ~[Docker Desktop](https://www.docker.com/products/docker-desktop/)~ [orbstack](https://orbstack.dev/) 代替
   * ~[Lens](https://k8slens.dev/): k8s GUI~
 
@@ -92,11 +97,11 @@ brew bundle install
 
 #### 截图
 
-* ~[iShot](https://www.better365.cn/ishot.html): 用过的最好用的截图软件，可以加阴影~
-* ~[CleanShot X](https://cleanshot.com/): 截图软件，不过需要订阅，订阅费有点贵~
 * [Snipaste](https://www.snipaste.com/): 代替 iShot，因为贴图功能是免费的
 * [PicGo](https://github.com/Molunerfinn/PicGo): 图片上传到图床，我使用的是阿里云 OSS
-  * [sapic](https://github.com/sapicd/sapic): 支持多种存储方式，需要自架
+* ~[iShot](https://www.better365.cn/ishot.html): 用过的最好用的截图软件，可以加阴影~
+* ~[CleanShot X](https://cleanshot.com/): 截图软件，不过需要订阅，订阅费有点贵~
+* ~[sapic](https://github.com/sapicd/sapic): 支持多种存储方式，需要自架~
 
 #### 视频
 
